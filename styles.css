@@ -86,6 +86,7 @@ hr {
 
 .numbers {
     font-weight: 700;
+    margin: 0 10px 10px;
 }
 
 span {
@@ -103,6 +104,7 @@ span {
 .desc {
     font-weight: 400;
     color: darkgray;
+    margin: 0 10px 10px;
 }
 
 
